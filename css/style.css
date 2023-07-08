@@ -275,6 +275,20 @@ ul.footer-menu li a:hover {
     animation-iteration-count:infinite; 
     -webkit-animation-iteration-count:infinite; 
 } 
+.hi{
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 50px;
+    
+}
+.wow{
+    font-family: 'Dosis', sans-serif;
+    color: #404142;
+    font-size: 20px;
+	letter-spacing: 0.8px;
+
+}
 
 @-webkit-keyframes bounce { 
     0%, 20%, 50%, 80%, 100% {-webkit-transform: translateY(0);} 
