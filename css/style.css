@@ -147,7 +147,7 @@ a:hover, a:focus, a:active, a:visited {
 }
 
 .speaker .feature {
-	width: 27.333333%;
+	width: 31.333333%;
 	-webkit-transition: all 0.3s;
   	-moz-transition: all 0.3s;
   	transition: all 0.3s;
@@ -156,7 +156,7 @@ a:hover, a:focus, a:active, a:visited {
     border-radius: 5px;
 }
 .speaker .feature:hover {
-    box-shadow: 2px 2px 6px #ccc;
+    box-shadow: 3px 3px 10px #ccc;
     transform: translateY(-10px);
 }
 .speaker-img {
@@ -320,7 +320,7 @@ ul.footer-menu li a:hover {
         max-height: 550px;
     }
     .speaker .feature {
-        width: 95%
+        width: 100%
     }
     .footer-credit {
         text-align: center;
@@ -333,6 +333,7 @@ ul.footer-menu li a:hover {
     .hero-header .btn {
         margin-top: 1em;
     }
+    
 }
 
 
@@ -344,7 +345,7 @@ ul.footer-menu li a:hover {
         text-align: center;
     }
     .speaker .feature {
-        width: 46%;
+        width: 49%;
         margin-right: 7px;
     }
     ul.footer-menu {
