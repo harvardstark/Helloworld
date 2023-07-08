@@ -108,7 +108,7 @@ a:hover, a:focus, a:active, a:visited {
 
 
 .hero-header {
-	background: #016cc7;
+	background: #202021;
 	min-height: 600px;
 	padding: 5em;
 	color: #fff;
@@ -123,7 +123,7 @@ a:hover, a:focus, a:active, a:visited {
     margin: 2em 0;
 }
 .hero-header .logo {
-	max-width: 180px;
+	max-width: 300px;
 }
 .hero-header .btn {
 	margin-top: 3em;
